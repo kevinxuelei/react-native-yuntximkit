@@ -1,0 +1,24 @@
+{
+  "name": "react-native-yuntximkit",
+  "version": "1.0.0",
+  "description": "IMKit of YunTongXun for ReactNative Project use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinxuelei/react-native-yuntximkit.git"
+  },
+  "keywords": [
+    "reactnative",
+    "IM",
+    "UIKit"
+  ],
+  "author": "kevinxuelei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinxuelei/react-native-yuntximkit/issues"
+  },
+  "homepage": "https://github.com/kevinxuelei/react-native-yuntximkit#readme"
+}
